@@ -12,6 +12,6 @@ This Tableau dashboard analyses cafe sales data to identify sales trends , popul
 - Monthly Sales Trend
 
 ## Tableau Public Dashboard 
-
+https://public.tableau.com/app/profile/khushpreet.kaur6887/viz/CafeSalesAnalysis_17840332719300/Dashboard1#1
 ## Dataset
 dirty_cafe_sales1.csv.xlsv
